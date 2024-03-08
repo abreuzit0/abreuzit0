@@ -33,6 +33,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-'lucas-abreu'-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-abreu/)](https://www.linkedin.com/in/lucas-abreu/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-abreu/)](https://www.linkedin.com/in/lucas-abreu/)
 [![Gmail Badge](https://img.shields.io/badge/-lucasabreu@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasabreuthree@gmail.com)](mailto:lucasabreuthree@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/abreuzit0)
